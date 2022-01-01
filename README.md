@@ -1,4 +1,4 @@
-# Flight Fare Prediction: 
+# Bengaluru Housing Prediction: 
 
 ## Table of Contents
   * [Demo](#demo)
@@ -11,7 +11,7 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-pooja.herokuapp.com/](https://flight-price-prediction-pooja.herokuapp.com/)
+Link: [https://bengaluru-housing-prediction.herokuapp.com/](https://flight-price-prediction-pooja.herokuapp.com/)
 
 ![](https://i.imgur.com/Ij4cVyo.png)
 
