@@ -38,15 +38,14 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Directory Tree 
 ```
-├── static 
-│   ├── css
-├── template
-│   ├── home.html
+├── Dataset
+├── templates
+│   ├── index.html
 ├── Procfile
 ├── README.md
 ├── app.py
-├── flight_price.ipynb
-├── flight_rf.pkl
+├── BengaluruHousing.ipynb
+├── RidgeModel.pkl
 ├── requirements.txt
 ```
 
